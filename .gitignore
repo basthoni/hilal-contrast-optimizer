@@ -1,0 +1,11 @@
+# Mengabaikan environment WinPython
+WPy64-*/
+WinPython*.exe
+
+# Mengabaikan file batch lokal
+*.bat
+*.cfg
+
+# Mengabaikan folder cache
+__pycache__/
+.ipynb_checkpoints/
